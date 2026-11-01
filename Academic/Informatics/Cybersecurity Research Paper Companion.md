@@ -1,0 +1,1 @@
+[Here](https://docs.google.com/presentation/d/e/2PACX-1vS1BIuKOJ0LxP-dLzdSQpDHt_MYvJ49OBPrSoIU4zCCvqLMmmZnyQsALXwPqd0-rGZkWlEFPdsvNZa5/pub?start=true&loop=false&delayms=30000) is a companion slideshow for my freshman Informatics research paper.
